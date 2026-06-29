@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual Machine
+*.vdi
+*.vmdk
+*.vbox
+*.ova
+*.ovf
+
+# PCAP
+*.pcap
+*.pcapng
+
+# Suricata Logs
+logs/real_logs/
+*.log
+
+# Elastic (7주차 이후)
+elasticsearch/
+kibana/
